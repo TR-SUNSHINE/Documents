@@ -8,7 +8,7 @@
 .LSOverride
 */.DS_Store
 
-.*
+./*
 !/.gitignore
 
 Meetings/.DS_Store
